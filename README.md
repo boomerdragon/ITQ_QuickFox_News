@@ -6,14 +6,14 @@ Aplicación móvil nativa para Android desarrollada en Java para consultar notic
 
 ## 📌 Acerca del Proyecto
 
-**QuickFox News** es una aplicación cliente de noticias desarrollada para la comunidad del Instituto Tecnológico de Querétaro (ITQ) / TecNM. La aplicación obtiene encabezados y artículos de prensa en tiempo real utilizando servicios REST HTTP, mostrándolos en tarjetas dinámicas interactivas con actualización mediante deslizamiento (*Swipe-to-Refresh*) y una vista detallada mediante un navegador web integrado (*WebView*).
+**QuickFox News** es una aplicación cliente de noticias desarrollada para la comunidad del grupo de **Tópicos Avanzados de Programación** del Instituto Tecnológico de Querétaro (ITQ) / TecNM. La aplicación obtiene encabezados y artículos de prensa en tiempo real utilizando servicios REST HTTP, mostrándolos en tarjetas dinámicas interactivas con actualización mediante deslizamiento (*Swipe-to-Refresh*) y una vista detallada mediante un navegador web integrado (*WebView*).
 
 ---
 
 ## 🚀 Características Principales
 
 - **Pantalla de Inicio con Splash Screen Nativo**: Implementado con la API Jetpack `androidx.core:core-splashscreen` que muestra el logotipo e imagen de marca durante la carga inicial.
-- **Interfaz Arcade HUD / Material Design 3**: Encabezado personalizado estilo marcador de videojuego y tarjetas con esquina redondeada y paleta de colores centralizada.
+- **Interfaz tipo Arcade HUD / Material Design 3**: Encabezado personalizado estilo marcador de videojuego y tarjetas con esquina redondeada y paleta de colores centralizada.
 - **Consumo de Noticias en Tiempo Real**: Integración con servicios REST mediante Volley, procesando respuestas en formato JSON (soporta esquemas estándar de NewsAPI y feeds RSS2JSON de Google News).
 - **Actualización por Deslizamiento (SwipeRefreshLayout)**: Recarga asíncrona de datos desde el servidor en cualquier momento.
 - **Navegación WebView Integrada**: Abre la noticia original en una pantalla secundaria sin salir de la aplicación.

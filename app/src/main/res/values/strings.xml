@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuickFox News</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_logo_app">Logo de la aplicación</string>
+
+    <!-- Header & Stage Labels -->
+    <string name="stage_header_title">🎮 STAGE 5-27: LIVE NEWS CONSUMPTION</string>
+
+    <!-- Item Placeholders -->
+    <string name="placeholder_news_source">Fuente de la Noticia</string>
+    <string name="placeholder_news_title">Título del Artículo de Prensa</string>
+    <string name="placeholder_news_description">Resumen explicativo del contenido del artículo...</string>
+    <string name="placeholder_news_date">2026-11-27T10:00:00Z</string>
+
+    <!-- Error & Toast Messages -->
+    <string name="error_invalid_article_url">El artículo no cuenta con un enlace válido.</string>
+    <string name="error_load_news_network">Error al cargar las noticias. Verifique su conexión.</string>
+
+    <!-- Fallback & Default Strings -->
+    <string name="fallback_news_title_untitled">Sin título disponible</string>
+    <string name="fallback_news_description_unavailable">Sin descripción disponible para este artículo.</string>
+    <string name="fallback_news_source_default">Fuente Noticiosa</string>
+    <string name="fallback_news_source_unknown">Fuente Desconocida</string>
+    <string name="fallback_news_date_unspecified">Fecha no especificada</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Component Background Colors -->
+    <color name="bg_main">#001A33</color>
+    <color name="bg_header">#000F1F</color>
+    <color name="card_bg_news">#002244</color>
+
+    <!-- Component Text & Accent Colors -->
+    <color name="text_stage_accent">#FF6600</color>
+    <color name="text_source_cyan">#00E5FF</color>
+    <color name="text_description_gray">#CCCCCC</color>
+    <color name="text_date_gold">#FFD700</color>
+</resources>
